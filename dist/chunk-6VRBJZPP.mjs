@@ -1,0 +1,1 @@
+import{a as n}from"./chunk-V3Q6A3RL.mjs";function t(o){console.log(`Goodbye ${o}`)}n(t,"goodbye");function e(o){console.log(`six ${o}`)}n(e,"sixonly");function i(o){console.log(`zzz ${o}`)}n(i,"zzz");export{t as a,e as b,i as c};

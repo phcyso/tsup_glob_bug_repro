@@ -1,0 +1,1 @@
+import{b as m}from"../chunk-BJMENOML.mjs";import{a as o,b as r,d as t}from"../chunk-V3Q6A3RL.mjs";import*as a from"path";async function n(){r("world 1"),a.resolve("./",m)}o(n,"main");t(import.meta.url,n);export{n as main};

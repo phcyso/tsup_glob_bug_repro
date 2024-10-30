@@ -1,0 +1,1 @@
+import{a as l}from"../chunk-BJMENOML.mjs";import{a as o,b as r,c as t,d as e}from"../chunk-V3Q6A3RL.mjs";import i from"path";function m(n){console.log(`Hello, ${n}`),t(["one","two"]),i.resolve("./",l)}o(m,"helloThree");async function p(){r("world 3"),m("")}o(p,"main");e(import.meta.url,p);export{p as main};

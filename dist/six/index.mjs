@@ -1,0 +1,1 @@
+import{a as i,b as m}from"../chunk-6VRBJZPP.mjs";import{a as o,b as r,c as n,d as t}from"../chunk-V3Q6A3RL.mjs";async function l(){r("world 6"),n([]),i("world 6"),m(" 6")}o(l,"main");t(import.meta.url,l);export{l as main};
