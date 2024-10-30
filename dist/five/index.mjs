@@ -1,1 +1,1 @@
-import{a as i}from"../chunk-BJMENOML.mjs";import{a as t}from"../chunk-6VRBJZPP.mjs";import{a as o,b as r,d as m}from"../chunk-V3Q6A3RL.mjs";async function n(){r("world 5"),t(`world 6 - ${i}`)}o(n,"main");m(import.meta.url,n);export{n as main};
+import{a as i,b as n}from"../chunk-BJMENOML.mjs";import{a as o}from"../chunk-6VRBJZPP.mjs";import{a as r,b as t,d as m}from"../chunk-V3Q6A3RL.mjs";async function f(){t("world 5"),o(`world 4 - ${i}`),o(`what - ${n}`)}r(f,"main");m(import.meta.url,f);export{f as main};
